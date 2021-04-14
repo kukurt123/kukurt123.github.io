@@ -57284,7 +57284,7 @@ $C:"$2",
 $R:2,
 $S:372}
 Y.a5J.prototype={
-$2:function(a,b){var s=null,r=b.b,q=r>999?r*50:r*0.75
+$2:function(a,b){var s=null,r=b.b,q=r>999?r*0.5:r*0.75
 P.fw(r)
 P.fw(b.d)
 return T.pP(C.oi,H.c([M.aF(s,s,C.j,s,s,new S.da(s,X.AQ(C.cF,new L.ho("assets/images/image1.jpg",s,s),s),s,s,s,s,C.Q),s,q,s,s,s,s,q),M.aF(s,s,C.j,s,s,new S.da(s,X.AQ(C.cF,new L.ho("assets/images/image2.jpg",s,s),s),s,s,s,s,C.Q),s,q,s,s,s,s,q),M.aF(s,s,C.j,s,s,new S.da(s,X.AQ(C.cF,new L.ho("assets/images/image3.jpg",s,s),s),s,s,s,s,C.Q),s,q,s,s,s,s,q),M.aF(s,s,C.j,s,s,new S.da(s,X.AQ(C.cF,new L.ho("assets/images/image4.jpg",s,s),s),s,s,s,s,C.Q),s,q,s,s,s,s,q)],t.Y),C.cE,0,0)},
