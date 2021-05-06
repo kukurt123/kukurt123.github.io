@@ -58942,9 +58942,9 @@ f=$.c8
 e=L.b7(C.fC,a1,a1)
 d=T.c1(L.b7(C.bi,a1,a1),a1,a1)
 c=L.bS("First Assembly of God Koronadal",a1,a1,a1,a1)
-h=Y.nE(b2,p,Y.nA("Manages tithes and offering and church expenses.","Church Information System",H.b([g,new M.hK(b0,f*2/100,C.j,!1,a1),e,E.dB(d,C.bW.i(0,900),c)],i)),b3,a5,L.b7(C.md,a1,a1),"assets/images/church/church1.JPG","Church Info System",h)
+h=Y.nE(b2,p,Y.nA("Manages tithes and offering and \nchurch expenses.","Church Information System",H.b([g,new M.hK(b0,f*2/100,C.j,!1,a1),e,E.dB(d,C.bW.i(0,900),c)],i)),b3,a5,L.b7(C.md,a1,a1),"assets/images/church/church1.JPG","Church Info System",h)
 p=H.b(H.b([s,r],q).slice(0),q)
-g=H.b([""],o)
+g=H.b(["https://i.ibb.co/87vqFSQ/pos1.jpg","https://i.ibb.co/CtwFD9n/pos2.jpg","https://i.ibb.co/DKx20qX/pos3.jpg","https://i.ibb.co/tPBGGqK/pos4.jpg"],o)
 f=U.d1(a9,a1,C.M,40,!0)
 e=$.c8
 d=L.b7(C.fC,a1,a1)
@@ -58964,7 +58964,7 @@ p=$.c8
 o=L.b7(C.fC,a1,a1)
 f=T.c1(L.b7(C.bi,a1,a1),a1,a1)
 e=L.bS("Dra. Suarez Clinic",a1,a1,a1,a1)
-return T.c1(new T.ew(C.cO,T.x7(C.aK,H.b([n,m,l,k,j,h,g,Y.nE(b2,s,Y.nA("A smart management system that automates many tasks","Clinic Information System",H.b([q,new M.hK(b0,p*2/100,C.j,!1,a1),o,E.dB(f,C.bW.i(0,900),e)],i)),b3,"Clinic Project",L.b7(C.md,a1,a1),"assets/images/clinic/clinic1.JPG","Clinic System",r)],i),C.tD,C.l,C.aK,10,10),a1),a1,a1)},
+return T.c1(new T.ew(C.cO,T.x7(C.aK,H.b([n,m,l,k,j,h,g,Y.nE(b2,s,Y.nA("A smart clinic management system \nthat automates many tasks","Clinic Information System",H.b([q,new M.hK(b0,p*2/100,C.j,!1,a1),o,E.dB(f,C.bW.i(0,900),e)],i)),b3,"Clinic Project",L.b7(C.md,a1,a1),"assets/images/clinic/clinic1.JPG","Clinic System",r)],i),C.tD,C.l,C.aK,10,10),a1),a1,a1)},
 $S:369}
 Y.a7d.prototype={
 $0:function(){},
